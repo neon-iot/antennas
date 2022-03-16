@@ -1,4 +1,4 @@
-# Demo course template
+# Antennas
 ## About this course
 El curso se orienta al diseño de antenas eléctricamente pequeñas destinadas a dispositivos electrónicos portátiles.  
 
