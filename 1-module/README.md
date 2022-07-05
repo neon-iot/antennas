@@ -1,4 +1,5 @@
 # Part 1 Introduccion
 
 ## About this module
-Este módulo presenta el porblema fundamental de las antenas de reducidas dimensiones físicas.
+Este módulo introduce al problema de las antenas de dimensiones físicas reducidas.
+
