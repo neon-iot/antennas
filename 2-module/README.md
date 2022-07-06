@@ -1,4 +1,4 @@
-# Module 2
+# Module 2 Técnicas de Miniaturización
 
 ## About this module
 En este módulo se presentan las  técnicas habituales para reducir las dimensiones de las antenas. Se realizan prácticas de diseño con herramientas de simulación electromagnética.
