@@ -8,11 +8,13 @@ Estructura balanceada versus estructura desbalanceada. Tipos de líneas más fre
 ### Evaluación del desempeño
 El problema de medición de la antena pequeña incorporada a un dispositivo electrónico. Caracterización de la red de alimentación. Dispositivos de medición habituales (analizador vectorial de redes, generadores de señal, analizador de espectro, antena de referencia, celdas GTEM).
 ### Topologías usuales
-Antenas realizadas sobre placas de circuito impreso. Antena tipo F invertida,  diseño de acuerdo a la línea de alimentación y a la red de adaptación de impedancia. Variantes de la antena (IFA, PIFA, MIFA). 
+Antenas realizadas sobre placas de circuito impreso. 
 
-Antenas ranura (slot). 
+Antena tipo F invertida,  diseño de acuerdo a la línea de alimentación y a la red de adaptación de impedancia. Variantes de la antena (IFA, PIFA, MIFA). 
 
-Antenas microstrip (patch)
+Antenas ranura (slot). Versiones de media y cuarto de longitud de onda. Tipo de alimentación. Rangos de impedancia y anchos de banda típicos.
+
+Antenas microstrip (patch). Versiones de media y cuarto de longitud de onda. Tipo de alimentación. Rangos de impedancia y anchos de banda típicos.
 
 
 
