@@ -8,3 +8,4 @@ Monopolos y estructutas de cuarto de longitud de onda. Ranuras en irradiantes y 
 ### Miniaturización mediante carga de materiales
 Reducción de las dimensiones con materiales dieléctricos. Relación ancho de banda y pérdidas. Reducción de las dimensiones con materiales magnéticos. Nuevos materiales artificiales (metamateriales).
 ### Miniaturización con técnicas de optimización
+Optimización de estructuras meándricas o ranuras en irradiantes mediante el uso de algoritmo genético (GA) o por intercambio de partículas (PSA).
