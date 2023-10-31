@@ -15,7 +15,7 @@ Conocimientos de programas de simulación electromagnética.
 
 ## The material available:
 
-*	Docs: Contiene archivos .
+*	Docs: Contiene  manuales del equipamiento de mediciones utiizado en los laboratorios.
 *	Slides: Transparencias de las clases.
 
 ![NEON_logo](https://github.com/neon-iot/antennas/assets/94380520/afea2fd0-f6d2-40a5-baa1-10894fc17836)
